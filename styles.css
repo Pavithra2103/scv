@@ -90,12 +90,14 @@ a:hover {
     text-align: right;
     
 }
+
+
+.pro {
+    text-decoration: underline;
+}
 .intro {
     width:30%;
     margin: auto;
-}
-.pro {
-    text-decoration: underline;
 }
 
 .contact-message {
